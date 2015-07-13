@@ -1,8 +1,7 @@
 # Kaggle-Competitions
 I've worked on some kaggle competitions. If you look at the scripts themselves, they're all ipython notebooks. I've
 added some annotation so you can see my thought process as I'm working through the competitions. A lot of the 
-things I'm trying don't work. I'm hoping that means I haven't been motivated enough to find the right answer. But 
-everyone who's wrong hope that.
+things I'm trying don't work. But some times, it's more important to know what doesn't work to know what's possible than it is to get a great answer on the first pass.
 
 The forest cover script: 
 
